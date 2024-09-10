@@ -32,6 +32,7 @@ Before you begin, ensure you have the following installed:
 - A Cloudinary account with:
   - A project
   - An upload preset
+- Angular CLI
 
 ## Run the App
 
